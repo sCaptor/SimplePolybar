@@ -3,5 +3,5 @@
 
 to launch it a the start the command is something like this 
 <pre>
-$ polybar left & polybar middle & polybar right & polybar wofofi &```
+$ polybar left & polybar middle & polybar right & polybar wofofi &
 </pre>
