@@ -5,4 +5,4 @@ to launch it a the start the command is something like this
 <pre>
 $ polybar left & polybar middle & polybar right & polybar wofofi &
 </pre>
-the font im using is <a>https://typeof.net/Iosevka/</a>
+the font im using is <a>https://www.nerdfonts.com/font-downloads</a>
