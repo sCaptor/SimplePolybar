@@ -8,7 +8,7 @@ then you can add it to your autostart config
 
 the font I'm using is [Iosevka Nerd Font](https://www.nerdfonts.com/font-downloads)
 
-To switch between Ethernet and WLAN modules, you must edit the **wofofi/bar** (bar of network connection) in the **config.ini** and replace as desired in the modules-center.
+To switch between Ethernet and WLAN modules, you must edit the **wofofi/bar** (network connection bar) in the **config.ini** and replace as desired in the modules-center.
 <pre>modules-center = eth </pre>
 or
 <pre>modules-center = wlan </pre>
