@@ -1,5 +1,5 @@
 [global/wm]
-margin-top = 5px
+margin-top = 5
 include-file = ~/.config/polybar/colores.ini
 include-file = ~/.config/polybar/modules.ini
 
