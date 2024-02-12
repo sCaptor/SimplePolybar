@@ -1,5 +1,5 @@
 [global/wm]
-margin-top = 5
+margin-top = 5px
 include-file = ~/.config/polybar/colores.ini
 include-file = ~/.config/polybar/modules.ini
 
@@ -10,7 +10,8 @@ separator = " "
 separator-margin = 0
 
 bottom = true
-font-0 = "Iosevka:size=10:weight=bold:monospace;3"
+
+font-0 = "Iosevka Nerd Font:weight=bold:size=11;3"
 
 border-size = 2pt
 border-color = ${colors.bordercolor}
