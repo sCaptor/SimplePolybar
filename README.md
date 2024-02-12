@@ -1,5 +1,7 @@
 # SimplePolybar
-![imagen](https://github.com/sCaptor/SimplePolybar/assets/78771368/11aeb406-7a17-4da3-bc71-c97b6facf2f9)
+
+![imagen](https://github.com/sCaptor/SimplePolybar/assets/78771368/163ad819-1c82-47b2-b753-830b8ab50d1f)
+
 
 to launch it a the start the command is something like this
 <pre>chmod +x PolyLaunch.sh</pre>
