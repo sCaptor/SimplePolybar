@@ -10,8 +10,4 @@ if [ -n "$polybar_running" ]; then
 fi
 
 # lanzar la polybar
-polybar middle &
-polybar wofofi &
-polybar right &
-polybar left &
-
+polybar &
